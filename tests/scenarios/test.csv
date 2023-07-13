@@ -1,0 +1,5 @@
+Selector,Value,Action,Target
+,https://www.google.com,navigate,www.google.com
+//html[1]/body[1]/div[1]/div[3]/form[1]/div[1]/div[1]/div[1]/div[1]/div[2]/textarea[1],cars2,insert,www.google.com
+//html/body/div[1]/div[3]/form/div[1]/div[1]/div[4]/center/input[1],,click,www.google.com
+,5000,wait,www.google.com

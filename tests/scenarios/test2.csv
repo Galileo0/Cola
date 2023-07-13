@@ -1,0 +1,4 @@
+Selector,Value,Action,Target
+,https://dashboard.spacejat.com/,navigate,
+,5000,wait,
+,SpaceJat,expect,tohavetitle
